@@ -20,13 +20,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YOxyfel](https://github.com/YOxyfel)
 
-- 📝 I write down any ideas in my journal [- private.](- private.)
+- 📝 I write down any cool ideas in my journal, just like this one - [Kubota](https://www.kubota.com/futurecube/)
 
 - 💬 Ask me about **Game Ideas.**
 
 - 📫 How to reach me **zhekov.yane123@gmail.com**
-
-- 📄 Know about my experiences [- private.](- private.)
 
 - ⚡ Fun fact **I love the idea of making a video game.**
 
