@@ -24,16 +24,13 @@
 
 - ⚡ Fun fact **I love the idea of making a video game.** <img align="right" src="https://komarev.com/ghpvc/?username=yoxyfel&label=Profile%20views&color=0e75b6&style=flat" alt="yoxyfel" />
 
-<style>
-  ul li {font-size: 50px;}
-</style>
 
 ## My Projects:
 <h3>Wordpress Websites</h3>
 <ul>
-  <li><a href="https://stilmerseng.bg/">Stilmerseng.bg</a> - Professional BG website for architects</li>
-  <li><a href="https://albenta.bg/">Albenta.bg</a> - Professional BG website for selling mechanical parts</li>
-  <li><a href="https://dominaresidence.bg/">Dominaresidence.bg</a> - Professional BG website for selling apartments</li>
+  <li><a href="https://stilmerseng.bg/"><strong>Stilmerseng.bg</strong></a> - Professional BG website for architects</li>
+  <li><a href="https://albenta.bg/"><strong>Albenta.bg</strong></a> - Professional BG website for selling mechanical parts</li>
+  <li><a href="https://dominaresidence.bg/"><strong>Dominaresidence.bg</strong></a> - Professional BG website for selling apartments</li>
 </ul>
 
 
