@@ -25,7 +25,7 @@
 - ⚡ Fun fact **I love the idea of making a video game.** <img align="right" src="https://komarev.com/ghpvc/?username=yoxyfel&label=Profile%20views&color=0e75b6&style=flat" alt="yoxyfel" />
 
 ## My Projects:
-<h1>Wordpress Websites</h1>
+<h3>Wordpress Websites</h3>
 <ul>
   <li href="https://stilmerseng.bg/">Stilmerseng.bg - Professional BG website for architects</li>
   <li href="https://albenta.bg/">Albenta.bg - Professional BG website for selling mechanical parts</li>
