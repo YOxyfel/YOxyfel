@@ -27,9 +27,9 @@
 ## My Projects:
 <h3>Wordpress Websites</h3>
 <ul>
-  <a href="https://stilmerseng.bg/"><li>Stilmerseng.bg - Professional BG website for architects</li></a>
-  <a href="https://albenta.bg/"><li>Albenta.bg - Professional BG website for selling mechanical parts</li></a>
-  <a href="https://dominaresidence.bg/"><li>Dominaresidence.bg - Professional BG website for selling apartments</li></a>
+  <li><a href="https://stilmerseng.bg/">Stilmerseng.bg</a> - Professional BG website for architects</li>
+  <li><a href="https://albenta.bg/">Albenta.bg</a> - Professional BG website for selling mechanical parts</li>
+  <li><a href="https://dominaresidence.bg/">Dominaresidence.bg</a> - Professional BG website for selling apartments</li>
 </ul>
 
 
