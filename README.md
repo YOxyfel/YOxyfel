@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [Custom Web Design](https://yoxyfel.github.io/Tindog/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/YOxyfel](https://github.com/YOxyfel)
+- 👨‍💻 All of my personal projects are available at [https://github.com/YOxyfel](https://github.com/YOxyfel)
 
 - 📝 I write down any cool ideas in my journal, just like this one - [Kubota](https://www.kubota.com/futurecube/)
 
@@ -23,6 +23,11 @@
 - 📫 How to reach me **zhekov.yane123@gmail.com**
 
 - ⚡ Fun fact **I love the idea of making a video game.** <img align="right" src="https://komarev.com/ghpvc/?username=yoxyfel&label=Profile%20views&color=0e75b6&style=flat" alt="yoxyfel" />
+
+<style>
+  ul li
+  {font-size: 50px;}
+</style>
 
 ## My Projects:
 <h3>Wordpress Websites</h3>
