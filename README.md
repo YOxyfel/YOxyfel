@@ -25,8 +25,7 @@
 - ⚡ Fun fact **I love the idea of making a video game.** <img align="right" src="https://komarev.com/ghpvc/?username=yoxyfel&label=Profile%20views&color=0e75b6&style=flat" alt="yoxyfel" />
 
 <style>
-  ul li
-  {font-size: 50px;}
+  ul li {font-size: 50px;}
 </style>
 
 ## My Projects:
